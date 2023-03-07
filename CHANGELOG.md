@@ -1,6 +1,6 @@
 # Changelog
 
-## v0.5.6 - 2022-02-28
+## v0.5.7 - 2023-03-07
 
   * Add new are code for US, California.
 
