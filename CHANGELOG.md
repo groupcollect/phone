@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.5.8 - 2023-10-23
+
+  * Add missing area code for Florida, US.
+
 ## v0.5.7 - 2023-05-28
 
   * Fix typespecs
