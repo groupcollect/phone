@@ -1,5 +1,20 @@
 # Changelog
 
+## v0.5.11 - 2025-05-17
+
+  * Fix wrong alpha2 code for Jamaica.
+  * Add Norfolk Island, NF, country code.
+
+## v0.5.10 - 2024-12-29
+
+  * Fix duplicated area code on US states: CA, NJ.
+  * Fix compilation warnings on helper macros.
+
+## v0.5.9 - 2024-10-02
+
+  * Add recently updated area codes for US states: AL, CA, CO, DC, FL, IL, MO, NC, OH, OK, PA, VA.
+  * Fix incorrect code for Iceland.
+
 ## v0.5.8 - 2023-09-21
 
   * Fix missing AU support
