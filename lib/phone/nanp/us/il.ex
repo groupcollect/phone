@@ -3,7 +3,7 @@ defmodule Phone.NANP.US.IL do
 
   use Helper.Area
 
-  def regex, do: ~r/^(1)(217|224|309|312|331|447|464|618|630|708|773|779|815|847|872)([2-9].{6})$/
+  def regex, do: ~r/^(1)(217|224|309|312|331|447|464|618|630|708|730|773|779|815|847|861|872)([2-9].{6})$/
   def area_name, do: "Illinois"
   def area_type, do: "state"
   def area_abbreviation, do: "IL"
@@ -19,10 +19,12 @@ defmodule Phone.NANP.US.IL do
     "1618",
     "1630",
     "1708",
+    "1730",
     "1773",
     "1779",
     "1815",
     "1847",
+    "1861",
     "1872"
   ])
 end
